@@ -1,0 +1,15 @@
+Open Notepad
+
+write code - 
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
+
+
+save file
+open cmd
+go on file path
+compile program by javac HelloWorld.java
+run program by java HelloWorld
